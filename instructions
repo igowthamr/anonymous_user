@@ -1,0 +1,9 @@
+Instructions to run this app
+
+1. npm update
+2. npm start
+3. make sure mongodb is running 27017 port
+4. hit http://localhost:3000/ - if hit multiple times you should see a warning message
+5. hit http://localhost:3000/details to see the details
+
+I have tested this with different devices in same network. 
